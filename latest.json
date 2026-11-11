@@ -1,13 +1,13 @@
 {
-  "tag_name": "v0.24.0",
   "draft": false,
   "prerelease": false,
+  "tag_name": "v0.25.0",
   "assets": [
     {
-      "browser_download_url": "https://github.com/YuboxtY/melo-updates/releases/download/v0.24.0/Melo-0.24.0-android-arm64.apk",
-      "name": "Melo-0.24.0-android-arm64.apk",
-      "size": 66276639,
-      "digest": "sha256:6ecd7709ceab3e8635f7ed759bf9dec459b818527c811eec3f87e26d9bf08c2e"
+      "name": "Melo-0.25.0-android-arm64.apk",
+      "size": 66290991,
+      "browser_download_url": "https://github.com/YuboxtY/melo-updates/releases/download/v0.25.0/Melo-0.25.0-android-arm64.apk",
+      "digest": "sha256:329f360b33da514b23969eb9ddef4028154684a9850f5c98f076ea9d0a589799"
     }
   ]
 }
