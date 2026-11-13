@@ -1,13 +1,13 @@
 {
-  "tag_name": "v0.26.2",
   "draft": false,
   "assets": [
     {
-      "digest": "sha256:9c866760dde2380d2cfda476d1bc376699f67a6aaad5f1cef658d8cacec227b2",
-      "name": "Melo-0.26.2-android-arm64.apk",
-      "size": 66326811,
-      "browser_download_url": "https://github.com/YuboxtY/melo-updates/releases/download/v0.26.2/Melo-0.26.2-android-arm64.apk"
+      "name": "Melo-0.26.3-android-arm64.apk",
+      "digest": "sha256:9586a6303890d407552dcb773c98a9eb41bb2eedab311d2f8d98308eb0d327b9",
+      "size": 66331511,
+      "browser_download_url": "https://github.com/YuboxtY/melo-updates/releases/download/v0.26.3/Melo-0.26.3-android-arm64.apk"
     }
   ],
-  "prerelease": false
+  "prerelease": false,
+  "tag_name": "v0.26.3"
 }
