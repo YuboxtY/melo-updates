@@ -1,13 +1,21 @@
 {
+  "draft": false,
+  "highlights": [
+    "Nube y respaldo más compacto, con acciones de respaldo y restauración a mano.",
+    "Google Drive y OneDrive explican los permisos antes de iniciar sesión.",
+    "Almacenamiento local más corto, con limpieza de copias por playlist.",
+    "Importación con instrucciones más claras y accesos del reproductor en una fila.",
+    "Tu actividad muestra fotos de artistas y tus cinco búsquedas más frecuentes.",
+    "Un solo aviso de actualización, con los cambios en «Ver más»."
+  ],
   "prerelease": false,
+  "tag_name": "v0.35.3",
   "assets": [
     {
-      "browser_download_url": "https://github.com/YuboxtY/melo-updates/releases/download/v0.35.2/Melo-0.35.2-android-arm64.apk",
-      "name": "Melo-0.35.2-android-arm64.apk",
-      "size": 66006487,
-      "digest": "sha256:5431a8337db8ece97fd9a5bc398ed3e928bdbe9cba348c3f168ea21b7aafbfa2"
+      "browser_download_url": "https://github.com/YuboxtY/melo-updates/releases/download/v0.35.3/Melo-0.35.3-android-arm64.apk",
+      "digest": "sha256:f865c5fb3170b9be1b691e0bacc5d9219dcf539a6fc4406b68b9b7cb16445b59",
+      "name": "Melo-0.35.3-android-arm64.apk",
+      "size": 66013467
     }
-  ],
-  "draft": false,
-  "tag_name": "v0.35.2"
+  ]
 }
